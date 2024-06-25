@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LotteryAppNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello from other layout</string>
+    <string name="please_enter_some_text">Enter your name</string>
+    <string name="submit">Generate random lottery numbers</string>
+    <string name="image_of_a_lottery_ticket">Image of a lottery ticket</string>
+    <string name="your_loterry_numbers_are">Your loterry numbers are:</string>
+    <string name="welcome_lottery_app_generator">Welcome lottery app generator</string>
+    <string name="share_your_lottery_numbers">Share your lottery numbers</string>
+</resources>
